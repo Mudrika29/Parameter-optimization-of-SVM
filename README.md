@@ -1,6 +1,4 @@
 # Parameter Optimization of SVM
-Assignment for UCS654
-
 ## About SVM and Parameter Optimization
 
 Support Vector Machine or SVM is one of the most popular Supervised Learning algorithms, which is used for Classification as well as Regression problems. However, primarily, it is used for Classification problems in Machine Learning.
@@ -44,4 +42,3 @@ Number of Attributes: 16
 From the above graph, we can conclude that the model is well trained and parameter have been optimized due to the less gap between training and cross-validation curve.
 
 The graph is made for the sample which has best accuracy. Sample 9 has the best accuracy of 0.97 having kernel = Poly, Nu = 1.27 and Epsilon = 6.87.
-
